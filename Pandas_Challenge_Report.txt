@@ -1,6 +1,24 @@
-To receive all points, the written report presents a cohesive written analysis that:
+School Performance Report
 
-Summarizes the analysis (5 points)
+Merging the data from the schools and students, we were able to analyze the score of 39,170 students from 15 schools. 
+Firstly, it was calculated the budget of all schools, $24,649,428, the budget of each school (separated in categories) and, the spending range per student. 
+Secondly, it was calculated the average score between all students of 78.99 for math and, 81.88 for reading. Plus, the percentage of students that achieve 70 or more in their scores: 75% in math, 86% in reading and, 65% for both.
+Lastly, all students were grouped by their school, to understand the average score per school. Therefore, the schools were separated by type (Charter and District) and categorize by size considering the amount to students registered in each one (Small <1000, Medium 1000-2000, Large 2000-5000).
 
-Draws two correct conclusions or comparisons from the calculations (10 points)
+When compared the schools, it is clear that the top five best performing schools with the highest overall passing percentage are Cabrera High school,  Thomas High School, Griffin High School, Wilson High School, and Pena High School, which are all the Charter type of school.
+Therefore, we can see that charter schools are performing better than district schools, which can be confirmed at the end of the analysis, when the averages and percentages are compared between Charter and District types of school, where the Charter have higher scores and passing rates.
+
+There is also a correlation between school performance and their budget. The top five best schools have a lower budget per student compared to other schools. In most cases their spending ranges per student are lower than $585. Which indicates that the budget may be another factor that determines school performance.
+
+Furthermore, considering the scores per school size, the small and medium-sized schools have higher math and reading scores and percentages than the large schools. Which means that smaller schools may have some advantages in terms of academic achievement.
+
+
+
+
+
+
+
+
+
+
 
